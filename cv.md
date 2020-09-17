@@ -15,3 +15,24 @@ Extremely motivated to constantly develop my skills and grow professionally.
 * Experience in manual testing.
 * Experience in working with Scrum and Kanban.
 * Experience in Unity.
+
+### My projects
+
+* [ToDo list on native JS.](https://mrkefir4ik.github.io/ToDo/)
+ Includes modal windows, local storage etc.
+
+### Higher education
+* **Belarusian State University**
+Military faculty, Military intelligence
+
+* **Belarusian State University**
+Faculty of International Relations, International law
+
+### Languages
+* Russian — Native
+
+* Belarusian — C2 — Proficiency
+
+* English — B2 — Upper Intermediate
+
+* German — B1 — Intermediate
