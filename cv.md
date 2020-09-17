@@ -36,3 +36,33 @@ Faculty of International Relations, International law
 * English — B2 — Upper Intermediate
 
 * German — B1 — Intermediate
+
+### Professional development, courses
+- Loyola Law School (Loyola Marymount University)
+COBALT, International commercial negotiation
+- Sololearn Inc.
+Sololearn Inc., SQL Fundamentals
+- Training center
+EPAM Systems Inc., Software Testing Introduction (50 hours)
+
+### Work experience
+- **Beltech Optronics**
+*Project manager*
+    - business correspondence in english with counterparties
+    - coordination of the work on the project
+    - drawing up contracts
+    - support of foreign trade contracts
+    - negotiations
+    - control of delivery times and fulfillment of the obligations of the parties
+    - work with internal departments of development and production, organization of work of technical departments.
+
+- **Octonion Technology**
+*QA Engineer*
+    - manual testing (Web, desktop, mobile, IoT, Raspberry PI(Linux))
+    - API testing (swagger)
+    - test cases creation
+    - analysis of requirements
+
+### Contacts
+- **Email**: joker19980621@gmail.com
+- **Mobile phone**: +375295388957
