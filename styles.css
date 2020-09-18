@@ -1,0 +1,36 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#main_block {
+  width: 1024px;
+  margin: auto;
+  border: 2px solid burlywood;
+}
+
+header{
+  padding-left: 20px;
+}
+
+#contacts{
+  display: inline-block;
+  top: -264px;
+  position: relative;
+  left: 170px;
+  border-left: 2px solid grey;
+  padding-left: 60px;
+}
+
+#photo{
+  display: inline-block;
+}
+
+#about{
+  display: inline-block;
+  border-left: 2px solid grey;
+  padding-left: 60px;
+  position: relative;
+  position: absolute;
+  top: 264px;
+  left: 524px;
+}
