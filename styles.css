@@ -35,3 +35,8 @@ header{
   left: -140px;
   width: 306px;
 }
+
+.content{
+  padding-left: 40px;
+  line-height: 40px;
+}
