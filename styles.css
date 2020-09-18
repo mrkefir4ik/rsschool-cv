@@ -6,10 +6,12 @@ body {
   width: 1024px;
   margin: auto;
   border: 2px solid burlywood;
+  background-color: wheat;
 }
 
 header{
   padding-left: 20px;
+  background-image: url();
 }
 
 #contacts{
