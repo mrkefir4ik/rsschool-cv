@@ -30,7 +30,8 @@ header{
   border-left: 2px solid grey;
   padding-left: 60px;
   position: relative;
-  position: absolute;
-  top: 264px;
-  left: 524px;
+  position: relative;
+  top: -70px;
+  left: -140px;
+  width: 306px;
 }
